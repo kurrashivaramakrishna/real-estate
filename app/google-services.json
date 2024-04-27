@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54126906977",
+    "project_id": "realestate-d6caa",
+    "storage_bucket": "realestate-d6caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54126906977:android:759357d986f385abaf2420",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.homefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqboTZ-LW3AVijQbcOjmJjXBdq75kgDtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
